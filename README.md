@@ -72,8 +72,8 @@ There is no widely available, AI-powered tool that provides a **trustworthy asse
                       ▼                         ▼
            [Realness Score + Warnings] --> [React.js Frontend Display]
 
-🛣️ Future Development Roadmap
 
+🛣️ Future Development Roadmap
 🔗 LinkedIn & GitHub Deep Integration
 Automatically verify claimed skills and experience via APIs.
 
@@ -89,6 +89,7 @@ Full deployment of Ollama-based Mistral on secure edge servers to ensure data ne
 📡 Browser Extension
 Chrome plugin to detect fake internship/job listings directly on job boards and career platforms.
 
-Built With ❤️ by me.
+🙌 Final Note
+Built with ❤️ by me.
 
 FraudSense AI is crafted with precision, purpose, and passion to make the digital hiring ecosystem safer, smarter, and more trustworthy. Whether you’re a student navigating early career paths or a recruiter filtering thousands of profiles, this tool is built for you.
