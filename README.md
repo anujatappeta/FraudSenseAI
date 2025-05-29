@@ -75,22 +75,22 @@ There is no widely available, AI-powered tool that provides a **trustworthy asse
 ```
 
 ## 🛣️ Future Development Roadmap
-# 🔗 LinkedIn & GitHub Deep Integration
+**🔗 LinkedIn & GitHub Deep Integration**
 Automatically verify claimed skills and experience via APIs.
 
-# 🧾 Certificate Verification
+**🧾 Certificate Verification**
 Scan and validate educational or internship certificates using OCR and LLM-powered consistency checks.
 
-# 🔍 Crowdsourced Trust Layer
+**🔍 Crowdsourced Trust Layer**
 Allow users to upvote/downvote internship listings or employers and contribute to a shared reputation system.
 
-# 🔒 Privacy-First LLM Hosting
+**🔒 Privacy-First LLM Hosting**
 Full deployment of Ollama-based Mistral on secure edge servers to ensure data never leaves the local machine.
 
-# 📡 Browser Extension
+**📡 Browser Extension**
 Chrome plugin to detect fake internship/job listings directly on job boards and career platforms.
 
-# 🙌 Final Note
-## Built with ❤️ by me.
+## 🙌 Final Note
+ **Built with ❤️ by me.**
 
 FraudSense AI is crafted with precision, purpose, and passion to make the digital hiring ecosystem safer, smarter, and more trustworthy. Whether you’re a student navigating early career paths or a recruiter filtering thousands of profiles, this tool is built for you.
